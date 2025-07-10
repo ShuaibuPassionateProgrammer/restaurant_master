@@ -1,7 +1,7 @@
     <!-- footer Section Starts Here -->
     <section class="footer">
         <div class="container text-center">
-            <p>All rights reserved. Designed By <a href="#">Vijay Thapa</a></p>
+            <p>All rights reserved. Designed By <a href="#">Shuaibu (Passionate Programmer)</a></p>
         </div>
     </section>
     <!-- footer Section Ends Here -->
