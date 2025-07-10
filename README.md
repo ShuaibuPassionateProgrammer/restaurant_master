@@ -30,12 +30,12 @@ Your support helps keep these free resources coming!
 
 ## 📄 Pages Included
 
-1. `index.html` - Home page (search food, categories, featured items, social media links)
-2. `categories.html` - Displays all available food categories
-3. `foods.html` - Lists all food items
-4. `order.html` - Form to order selected food
-5. `category_foods.html` - Shows foods filtered by selected category
-6. `food_search.html` - Displays search results based on user input
+1. `index.php` - Home page (search food, categories, featured items, social media links)
+2. `categories.php` - Displays all available food categories
+3. `foods.php` - Lists all food items
+4. `order.php` - Form to order selected food
+5. `category_foods.php` - Shows foods filtered by selected category
+6. `food_search.php` - Displays search results based on user input
 
 ---
 
