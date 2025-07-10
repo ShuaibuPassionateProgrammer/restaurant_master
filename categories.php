@@ -1,4 +1,4 @@
-
+<?php include("./includes/header.php"); ?>
     <!-- Navbar Section Starts Here -->
     <section class="navbar">
         <div class="container">
