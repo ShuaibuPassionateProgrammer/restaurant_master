@@ -40,7 +40,7 @@ Your support helps keep these free resources coming!
 
 ## 🤝 Sponsorships & Project Enquiries
 
-📧 Email: [hi@vijaythapa.com](mailto:shuaibuibrahim523@gmail.com)
+📧 Email: [shuaibuibrahim523@gmail.com](mailto:shuaibuibrahim523@gmail.com)
 
 ---
 
