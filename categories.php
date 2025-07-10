@@ -158,3 +158,4 @@
     </section>
     <!-- social Section Ends Here -->
 
+<?php include("includes/footer.php"); ?>
